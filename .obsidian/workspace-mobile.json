@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -164,6 +164,7 @@
   },
   "active": "7149bc553d648092",
   "lastOpenFiles": [
+    "/README.md",
     "Untitled.md",
     "README.md"
   ]
